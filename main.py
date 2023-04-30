@@ -39,7 +39,7 @@ def main():
         grouped_df.plot(kind="bar", ax=ax, fontsize=8)
 
         # set labels and title
-        ax.set_xlabel("Product Category")
+        ax.set_xlabel("Product")
         ax.set_ylabel("Profit")
         ax.set_title("Revenue by Product")
 
