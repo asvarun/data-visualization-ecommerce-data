@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 def main():
-    st.subheader("Data Visualization Charts for E-Commerce Dataset")
+    st.subheader("Data Visualization Charts for E-Commerce Dataset [Kaggle]")
 
     df = pd.read_csv("E-commerce Dataset.csv")
 
